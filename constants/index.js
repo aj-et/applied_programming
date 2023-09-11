@@ -1,4 +1,5 @@
 
+
 const navLinks = [
     {
         id: 'about',
@@ -19,7 +20,7 @@ const projects = [
                 name: 'react'
             },
         ],
-        image: 'add the imported image',
+        image: '/hash_brown.png',
         source_code: 'https://github.com',
         live_demo: 'https://google.com'
     },
@@ -31,7 +32,7 @@ const projects = [
                 name: 'react'
             },
         ],
-        image: 'add the imported image',
+        image: '/hash_brown.png',
         source_code: 'https://github.com',
         live_demo: 'https://google.com'
     },
