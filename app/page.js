@@ -1,15 +1,12 @@
-import Image from 'next/image'
+import { About, Projects } from "@/components"
 
 export default function Home() {
   return (
-    <main>
+    <main className="flex justify-center items-center flex-col">
       Hello World
-      <Image 
-        src='/hash_brown.png'
-        width={50}
-        height={50}
-        alt='Test image'
-      />
+
+      <About />
+      <Projects />
     </main>
   )
 }
