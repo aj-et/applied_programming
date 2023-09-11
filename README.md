@@ -6,7 +6,7 @@ This repository in particular is my portfolio page that will showcase all of the
 
 The purpose of creating this web application is so that it is easier for hiring managers and other people to see my projects since it will all be in one place.
 
-[Software Demo Video](http://youtube.com)
+[Software Demo Video](https://youtu.be/sH745Sz2MPM)
 
 # Development Environment
 
